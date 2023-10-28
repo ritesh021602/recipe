@@ -6,5 +6,4 @@ Description
 it has details of a single recipes
 Saved
 it has details of your saved recipes
-Deployment
-I tried my best to deploy this project but i was unable to deploy it plz its a request try to preview the project before making a decison
+Deployment I have deployed the site on netlify
